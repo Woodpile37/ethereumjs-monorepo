@@ -45,7 +45,7 @@
     "karma-typescript-es6-transform": "5.5.3",
     "lint-staged": "13.0.3",
     "lockfile-lint-api": "^5.5.1",
-    "prettier": "2.7.1",
+    "prettier": "3.0.0",
     "sort-package-json": "1.57.0",
     "tape": "5.6.0",
     "ts-node": "10.9.1",
