@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/node": "16.11.49",
     "@types/tape": "4.13.2",
-    "@typescript-eslint/eslint-plugin": "5.33.1",
+    "@typescript-eslint/eslint-plugin": "6.2.0",
     "@typescript-eslint/parser": "5.33.1",
     "@vitest/browser": "0.32.0",
     "@vitest/coverage-v8": "0.32.0",
