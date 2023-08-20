@@ -18,7 +18,7 @@
     "sort-package-json": "sort-package-json \"package.json\" \"packages/*/package.json\""
   },
   "devDependencies": {
-    "@types/node": "16.11.49",
+    "@types/node": "20.4.5",
     "@types/tape": "4.13.2",
     "@typescript-eslint/eslint-plugin": "5.33.1",
     "@typescript-eslint/parser": "6.2.0",
