@@ -47,7 +47,7 @@
     "lockfile-lint-api": "^5.5.1",
     "prettier": "2.7.1",
     "sort-package-json": "2.5.1",
-    "tape": "5.6.0",
+    "tape": "5.6.6",
     "ts-node": "10.9.1",
     "typedoc": "0.24.8",
     "typedoc-plugin-markdown": "3.15.4",
