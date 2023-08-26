@@ -41,7 +41,7 @@
     "lint-staged": "13.0.3",
     "lockfile-lint-api": "^5.5.1",
     "playwright": "^1.35.1",
-    "prettier": "2.7.1",
+    "prettier": "3.0.1",
     "sort-package-json": "1.57.0",
     "tape": "5.6.0",
     "ts-node": "10.9.1",
